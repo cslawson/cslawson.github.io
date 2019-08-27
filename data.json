@@ -1,1 +1,16 @@
-The JSON file
+{
+	"username": "cslawson",
+	"goals": [{
+			"goal": "Read and study adequately and on time",
+			"confidence": 8
+		},
+		{
+			"goal": "Commit to regiments for studying and homework",
+			"confidence": 9
+		},
+		{
+			"goal": "Ask questions if I come across anything I might not understand; chances are, I'm not the only one",
+			"confidence": 10
+		}
+	]
+}
